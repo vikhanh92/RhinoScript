@@ -1,0 +1,360 @@
+CE2 _CageEdit _BoundingBox _CPlane _XPointCount=2  _YPointCount=2  _ZPointCount=2  _XDegree=1  _YDegree=1  _ZDegree=1  _enter _enter
+CE3 _CageEdit _BoundingBox _CPlane _XPointCount=3  _YPointCount=3  _ZPointCount=3  _XDegree=2  _YDegree=2  _ZDegree=2  _enter _enter
+CE4 _CageEdit _BoundingBox _CPlane _XPointCount=4  _YPointCount=4  _ZPointCount=4  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE5 _CageEdit _BoundingBox _CPlane _XPointCount=5  _YPointCount=5  _ZPointCount=5  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE6 _CageEdit _BoundingBox _CPlane _XPointCount=6  _YPointCount=6  _ZPointCount=6  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE7 _CageEdit _BoundingBox _CPlane _XPointCount=7  _YPointCount=7  _ZPointCount=7  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE8 _CageEdit _BoundingBox _CPlane _XPointCount=8  _YPointCount=8  _ZPointCount=8  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE9 _CageEdit _BoundingBox _CPlane _XPointCount=9  _YPointCount=9  _ZPointCount=9  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE10 _CageEdit _BoundingBox _CPlane _XPointCount=10  _YPointCount=10  _ZPointCount=10  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE11 _CageEdit _BoundingBox _CPlane _XPointCount=11  _YPointCount=11  _ZPointCount=11  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE12 _CageEdit _BoundingBox _CPlane _XPointCount=12  _YPointCount=12  _ZPointCount=12  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE13 _CageEdit _BoundingBox _CPlane _XPointCount=13  _YPointCount=13  _ZPointCount=13  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE14 _CageEdit _BoundingBox _CPlane _XPointCount=14  _YPointCount=14  _ZPointCount=14  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE15 _CageEdit _BoundingBox _CPlane _XPointCount=15  _YPointCount=15  _ZPointCount=15  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE16 _CageEdit _BoundingBox _CPlane _XPointCount=16  _YPointCount=16  _ZPointCount=16  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE17 _CageEdit _BoundingBox _CPlane _XPointCount=17  _YPointCount=17  _ZPointCount=17  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE18 _CageEdit _BoundingBox _CPlane _XPointCount=18  _YPointCount=18  _ZPointCount=18  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE19 _CageEdit _BoundingBox _CPlane _XPointCount=19  _YPointCount=19  _ZPointCount=19  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE20 _CageEdit _BoundingBox _CPlane _XPointCount=20  _YPointCount=20  _ZPointCount=20  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE25 _CageEdit _BoundingBox _CPlane _XPointCount=25  _YPointCount=25  _ZPointCount=25  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE30 _CageEdit _BoundingBox _CPlane _XPointCount=30  _YPointCount=30  _ZPointCount=30  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE35 _CageEdit _BoundingBox _CPlane _XPointCount=35  _YPointCount=35  _ZPointCount=35  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE40 _CageEdit _BoundingBox _CPlane _XPointCount=40  _YPointCount=40  _ZPointCount=40  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE45 _CageEdit _BoundingBox _CPlane _XPointCount=45  _YPointCount=45  _ZPointCount=45  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CE50 _CageEdit _BoundingBox _CPlane _XPointCount=50  _YPointCount=50  _ZPointCount=50  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+
+CEF2 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=2  _YPointCount=2  _ZPointCount=2  _XDegree=1  _YDegree=1  _ZDegree=1  _enter _enter
+CEF3 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=3  _YPointCount=3  _ZPointCount=3  _XDegree=2  _YDegree=2  _ZDegree=2  _enter _enter
+CEF4 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=4  _YPointCount=4  _ZPointCount=4  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF5 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=5  _YPointCount=5  _ZPointCount=5  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF6 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=6  _YPointCount=6  _ZPointCount=6  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF7 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=7  _YPointCount=7  _ZPointCount=7  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF8 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=8  _YPointCount=8  _ZPointCount=8  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF9 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=9  _YPointCount=9  _ZPointCount=9  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF10 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=10  _YPointCount=10  _ZPointCount=10  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF11 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=11  _YPointCount=11  _ZPointCount=11  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF12 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=12  _YPointCount=12  _ZPointCount=12  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF13 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=13  _YPointCount=13  _ZPointCount=13  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF14 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=14  _YPointCount=14  _ZPointCount=14  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF15 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=15  _YPointCount=15  _ZPointCount=15  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF16 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=16  _YPointCount=16  _ZPointCount=16  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF17 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=17  _YPointCount=17  _ZPointCount=17  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF18 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=18  _YPointCount=18  _ZPointCount=18  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF19 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=19  _YPointCount=19  _ZPointCount=19  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF20 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=20  _YPointCount=20  _ZPointCount=20  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF25 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=25  _YPointCount=25  _ZPointCount=25  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF30 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=30  _YPointCount=30  _ZPointCount=30  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF35 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=35  _YPointCount=35  _ZPointCount=35  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF40 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=40  _YPointCount=40  _ZPointCount=40  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF45 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=45  _YPointCount=45  _ZPointCount=45  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+CEF50 _CageEdit _BoundingBox _CPlane Deformation=Fast _XPointCount=50  _YPointCount=50  _ZPointCount=50  _XDegree=3  _YDegree=3  _ZDegree=3  _enter _enter
+
+SE _SelLast
+RB _Rebuild
+RE _Revolve
+RA _RailRevolve
+OP _Options
+IL _Invert _Lock
+HO -History _Record=Yes _Update=Yes _Enter
+HF -History _Record=No _Update=No _Enter
+E _Explode
+E1 -Osnap Endpoint=On  Near=Off  Point=Off  Midpoint=Off  Center=Off  Intersection=Off  Perpendicular=Off  Tangent=Off  Quadrant=Off  Knot=Off  Vertex=Off _Enter
+E2 -Osnap Endpoint=Off  Near=On  Point=Off  Midpoint=Off  Center=Off  Intersection=Off  Perpendicular=Off  Tangent=Off  Quadrant=Off  Knot=Off  Vertex=Off _Enter
+E3 -Osnap Endpoint=Off  Near=Off  Point=On  Midpoint=Off  Center=Off  Intersection=Off  Perpendicular=Off  Tangent=Off  Quadrant=Off  Knot=Off  Vertex=Off _Enter
+E4 -Osnap Endpoint=On  Near=Off  Point=Off  Midpoint=On  Center=Off  Intersection=Off  Perpendicular=Off  Tangent=Off  Quadrant=Off  Knot=Off  Vertex=Off _Enter
+E5 -Osnap Endpoint=Off  Near=Off  Point=Off  Midpoint=Off  Center=On  Intersection=Off  Perpendicular=Off  Tangent=Off  Quadrant=Off  Knot=Off  Vertex=Off _Enter
+E6 -Osnap Endpoint=Off  Near=Off  Point=Off  Midpoint=Off  Center=Off  Intersection=On  Perpendicular=Off  Tangent=Off  Quadrant=Off  Knot=Off  Vertex=Off _Enter
+E7 -Osnap Endpoint=Off  Near=Off  Point=Off  Midpoint=Off  Center=Off  Intersection=Off  Perpendicular=On  Tangent=Off  Quadrant=Off  Knot=Off  Vertex=Off _Enter
+E8 -Osnap Endpoint=On  Near=Off  Point=Off  Midpoint=Off  Center=Off  Intersection=Off  Perpendicular=Off  Tangent=Off  Quadrant=On  Knot=Off  Vertex=Off _Enter
+E9 -Osnap Endpoint=On op  Near=On  Point=On  Midpoint=On  Center=On  Intersection=On  Perpendicular=On  Tangent=Off  Quadrant=On  Knot=Off  Vertex=Off _Enter
+E0 -Osnap _None _Enter
+O _OffsetSrf
+OS _OffsetCrvOnSrf
+OF _Offset _InCPlane=No
+OC _ExtractIsoCurve
+OV _Ellipse
+
+FC _Flow
+FS _FlowAlongSrf
+CE _CageEdit
+DE _DupEdge
+BS _BooleanSplite1 
+ULS _UnlockSelected
+SS _ShowSelected
+
+J _Join
+SU _SelU
+SV _SelV
+F _Fillet
+FF _FilletEdge
+CF _Chamfer
+CFF_ChamferEdge
+ET _ExtractSrf Copy=Yes
+BL _Blend
+MA _Match
+PS _InterpcrvOnSrf
+PM _PolylineOnMesh
+ME _MergeSrf
+R _Rotate
+RR _Rotate3D
+IH _Invert _Hide
+CP _CPlane _Object
+CW _CPlane _World _Top
+R2 -Rebuild  _PointCount=2  Degree=1  _Enter _PointsOn
+R3 -Rebuild  _PointCount=3  Degree=2  _Enter _PointsOn
+R4 -Rebuild  _PointCount=4  Degree=3  _Enter _PointsOn
+R5 -Rebuild  _PointCount=5  Degree=3  _Enter _PointsOn
+R6 -Rebuild  _PointCount=6  Degree=3  _Enter _PointsOn
+R7 -Rebuild  _PointCount=7  Degree=3  _Enter _PointsOn
+R8 -Rebuild  _PointCount=8  Degree=3  _Enter _PointsOn
+R9 -Rebuild  _PointCount=9  Degree=3  _Enter _PointsOn
+R10 -Rebuild  _PointCount=10  Degree=3  _Enter _PointsOn
+R11 -Rebuild  _PointCount=11  Degree=3  _Enter _PointsOn
+R12 -Rebuild  _PointCount=12  Degree=3  _Enter _PointsOn
+R13 -Rebuild  _PointCount=13  Degree=3  _Enter _PointsOn
+R14 -Rebuild  _PointCount=14  Degree=3  _Enter _PointsOn
+R15 -Rebuild  _PointCount=15  Degree=3  _Enter _PointsOn
+R16 -Rebuild  _PointCount=16  Degree=3  _Enter _PointsOn
+R17 -Rebuild  _PointCount=17  Degree=3  _Enter _PointsOn
+R18 -Rebuild  _PointCount=18  Degree=3  _Enter _PointsOn
+R19 -Rebuild  _PointCount=19  Degree=3  _Enter _PointsOn
+R20 -Rebuild  _PointCount=20  Degree=3  _Enter _PointsOn
+R21 -Rebuild  _PointCount=21  Degree=3  _Enter _PointsOn
+R22 -Rebuild  _PointCount=22  Degree=3  _Enter _PointsOn
+R23 -Rebuild  _PointCount=23  Degree=3  _Enter _PointsOn
+R24 -Rebuild  _PointCount=24  Degree=3  _Enter _PointsOn
+R25 -Rebuild  _PointCount=25  Degree=3  _Enter _PointsOn
+R26 -Rebuild  _PointCount=26  Degree=3  _Enter _PointsOn
+R27 -Rebuild  _PointCount=27  Degree=3  _Enter _PointsOn
+R28 -Rebuild  _PointCount=28  Degree=3  _Enter _PointsOn
+R29 -Rebuild  _PointCount=29  Degree=3  _Enter _PointsOn
+R30 -Rebuild  _PointCount=30  Degree=3  _Enter _PointsOn
+R31 -Rebuild  _PointCount=31  Degree=3  _Enter _PointsOn
+R32 -Rebuild  _PointCount=32  Degree=3  _Enter _PointsOn
+R33 -Rebuild  _PointCount=33  Degree=3  _Enter _PointsOn
+R34 -Rebuild  _PointCount=34  Degree=3  _Enter _PointsOn
+R35 -Rebuild  _PointCount=35  Degree=3  _Enter _PointsOn
+R36 -Rebuild  _PointCount=36  Degree=3  _Enter _PointsOn
+R37 -Rebuild  _PointCount=37  Degree=3  _Enter _PointsOn
+R38 -Rebuild  _PointCount=38  Degree=3  _Enter _PointsOn
+R39 -Rebuild  _PointCount=39  Degree=3  _Enter _PointsOn
+R40 -Rebuild  _PointCount=40  Degree=3  _Enter _PointsOn
+R45 -Rebuild  _PointCount=45  Degree=3  _Enter _PointsOn
+R50 -Rebuild  _PointCount=50  Degree=3  _Enter _PointsOn
+R55 -Rebuild  _PointCount=55  Degree=3  _Enter _PointsOn
+R60 -Rebuild  _PointCount=60  Degree=3  _Enter _PointsOn
+R65 -Rebuild  _PointCount=65  Degree=3  _Enter _PointsOn
+R70 -Rebuild  _PointCount=70  Degree=3  _Enter _PointsOn
+R75 -Rebuild  _PointCount=75  Degree=3  _Enter _PointsOn
+R80 -Rebuild  _PointCount=80  Degree=3  _Enter _PointsOn
+R85 -Rebuild  _PointCount=85  Degree=3  _Enter _PointsOn
+R90 -Rebuild  _PointCount=90  Degree=3  _Enter _PointsOn
+R95 -Rebuild  _PointCount=95  Degree=3  _Enter _PointsOn
+R100 -Rebuild  _PointCount=100  Degree=3  _Enter _PointsOn
+R120 -Rebuild  _PointCount=120  Degree=3  _Enter _PointsOn
+R150 -Rebuild  _PointCount=150  Degree=3  _Enter _PointsOn
+R200 -Rebuild  _PointCount=200  Degree=3  _Enter _PointsOn
+R250 -Rebuild  _PointCount=250  Degree=3  _Enter _PointsOn
+R300 -Rebuild  _PointCount=300  Degree=3  _Enter _PointsOn
+R350 -Rebuild  _PointCount=350  Degree=3  _Enter _PointsOn
+R400 -Rebuild  _PointCount=400  Degree=3  _Enter _PointsOn
+R450 -Rebuild  _PointCount=450  Degree=3  _Enter _PointsOn
+R500 -Rebuild  _PointCount=500  Degree=3  _Enter _PointsOn
+
+A2 _ArrayPolar _Pause _Pause 2 360 _Enter
+A3 _ArrayPolar _Pause _Pause 3 360 _Enter
+A4 _ArrayPolar _Pause _Pause 4 360 _Enter
+A5 _ArrayPolar _Pause _Pause 5 360 _Enter
+A6 _ArrayPolar _Pause _Pause 6 360 _Enter
+A7 _ArrayPolar _Pause _Pause 7 360 _Enter
+A8 _ArrayPolar _Pause _Pause 8 360 _Enter
+A9 _ArrayPolar _Pause _Pause 9 360 _Enter
+A10 _ArrayPolar _Pause _Pause 10 360 _Enter
+A11 _ArrayPolar _Pause _Pause 11 360 _Enter
+A12 _ArrayPolar _Pause _Pause 12 360 _Enter
+A13 _ArrayPolar _Pause _Pause 13 360 _Enter
+A14 _ArrayPolar _Pause _Pause 14 360 _Enter
+A15 _ArrayPolar _Pause _Pause 15 360 _Enter
+A16 _ArrayPolar _Pause _Pause 16 360 _Enter
+A17 _ArrayPolar _Pause _Pause 17 360 _Enter
+A18 _ArrayPolar _Pause _Pause 18 360 _Enter
+A19 _ArrayPolar _Pause _Pause 19 360 _Enter
+A20 _ArrayPolar _Pause _Pause 20 360 _Enter
+A21 _ArrayPolar _Pause _Pause 21 360 _Enter
+A22 _ArrayPolar _Pause _Pause 22 360 _Enter
+A23 _ArrayPolar _Pause _Pause 23 360 _Enter
+A24 _ArrayPolar _Pause _Pause 24 360 _Enter
+A25 _ArrayPolar _Pause _Pause 25 360 _Enter
+A26 _ArrayPolar _Pause _Pause 26 360 _Enter
+A27 _ArrayPolar _Pause _Pause 27 360 _Enter
+A28 _ArrayPolar _Pause _Pause 28 360 _Enter
+A29 _ArrayPolar _Pause _Pause 29 360 _Enter
+A30 _ArrayPolar _Pause _Pause 30 360 _Enter
+
+TH08 -DocumentProperties _Dimensions _Edit _Default _TextHeight=0.8 _ArrowLength=0.8 _Enter _Enter _Enter _Enter 
+TH10 -DocumentProperties _Dimensions _Edit _Default _TextHeight=1 _ArrowLength=1 _Enter _Enter _Enter _Enter 
+TH12 -DocumentProperties _Dimensions _Edit _Default _TextHeight=1.2 _ArrowLength=1 _Enter _Enter _Enter _Enter 
+TH15 -DocumentProperties _Dimensions _Edit _Default _TextHeight=1.5 _ArrowLength=1 _Enter _Enter _Enter _Enter 
+TH17 -DocumentProperties _Dimensions _Edit _Default _TextHeight=1.7 _ArrowLength=1 _Enter _Enter _Enter _Enter 
+TH20 -DocumentProperties _Dimensions _Edit _Default _TextHeight=2 _ArrowLength=1 _Enter _Enter _Enter _Enter 
+TH25 -DocumentProperties _Dimensions _Edit _Default _TextHeight=2.5 _ArrowLength=1 _Enter _Enter _Enter _Enter 
+TH30 -DocumentProperties _Dimensions _Edit _Default _TextHeight=3 _ArrowLength=1.5 _Enter _Enter _Enter _Enter
+TH35 -DocumentProperties _Dimensions _Edit _Default _TextHeight=3.5 _ArrowLength=1.5 _Enter _Enter _Enter _Enter 
+TH40 -DocumentProperties _Dimensions _Edit _Default _TextHeight=4 _ArrowLength=1.7 _Enter _Enter _Enter _Enter 
+TH45 -DocumentProperties _Dimensions _Edit _Default _TextHeight=4.5 _ArrowLength=1.7 _Enter _Enter _Enter _Enter
+TH50 -DocumentProperties _Dimensions _Edit _Default _TextHeight=5 _ArrowLength=2 _Enter _Enter _Enter _Enter
+TH60 -DocumentProperties _Dimensions _Edit _Default _TextHeight=6 _ArrowLength=2.2 _Enter _Enter _Enter _Enter
+TH70 -DocumentProperties _Dimensions _Edit _Default _TextHeight=7 _ArrowLength=2.5 _Enter _Enter _Enter _Enter
+
+GR -Grid _SnapSpacing=0.5  _MinorLineSpacing=1  _MajorLineInterval=5  _Extents=500  _ShowGrid=Yes  _ShowGridAxes=Yes  _ShowWorldAxes=Yes  _ApplyTo=ActiveViewport _Enter
+
+D08 DKChangeLayerColor 7
+D085 DKChangeLayerColor 2
+D09 DKChangeLayerColor 13
+D095 DKChangeLayerColor 31
+D10 DKChangeLayerColor 5
+D105 DKChangeLayerColor 10
+D11 DKChangeLayerColor 6
+D115 DKChangeLayerColor 32
+D12 DKChangeLayerColor 28
+D125 DKChangeLayerColor 15
+D13 DKChangeLayerColor 14
+D135 DKChangeLayerColor 19
+D14 DKChangeLayerColor 8
+D145 DKChangeLayerColor 9
+D15 DKChangeLayerColor 25
+D155 DKChangeLayerColor 21
+D16 DKChangeLayerColor 16
+D165 DKChangeLayerColor 27
+D17 DKChangeLayerColor 17
+D175 DKChangeLayerColor 3
+D18 DKChangeLayerColor 24
+D185 DKChangeLayerColor 26
+D19 DKChangeLayerColor 20
+D195 DKChangeLayerColor 23
+
+BD _BooleanDifference
+DI _Divide
+SN SelName
+
+CS CrvSeam
+NF _NewFloatingViewport _Enter
+ARL ArrayLinear
+SO SetPt
+G1 -Toolbar _Collection _Open "D:\Script\Toolbar\ViKhanh.rui" _Enter _Enter 
+CFF _ChamferEdge
+PRL _ProjectToCPlane _Yes
+RO _Revolve
+NC _Extend
+D _Dim
+DA _DimAligned
+S _Show
+BS BooleanSplit
+IS -Properties _Object _ShowIsocurves _Yes _Enter _Enter 
+IS1 -Properties _Object _ShowIsocurves _No _Enter _Enter 
+CB _CurveBoolean
+SM _Smash _LinearDirection=Natural _Explode=Yes  Labels=Yes  KeepProperties=No _Enter
+MS MergeSrf
+MF MoveFace
+UV _CreateUVCrv
+UV1 _ApplyCrv
+UP HotKeyUpdate
+UP1 -Options _PlugIns _Load _FileName "MyProject.rhp" Enter Enter
+CH CommandHistory
+
+;===========================Sweep============================
+W1 _Sweep1
+W2 _Sweep1
+W3 _Loft
+W4 _NetworkSrf
+W5 _Patch
+
+W22 gvSweep2History
+W11 gvSweepHistory
+
+C1 CreaseSplitting SplitAlongCreases=Yes
+C2 CreaseSplitting SplitAlongCreases=Yes
+C3 DivideAlongCreases SplitAtTangents=No  SplitAtKinks=Yes
+;===========================SetView============================
+V1 _WireframeViewport
+V2 _ShadedViewport
+V3 _GhostedViewport
+V4 -SetDisplayMode _Mode tsShiny
+
+;===========================Align==============================
+ALT _Align _Pause _Top
+ALB _Align _Pause _Bottom
+ALL _Align _Pause _Left
+ALR _Align _Pause _Right
+AL1 _Align _Pause _HorizCenter
+AL2 _Align _Pause _VertCenter
+AL3 _Align _Pause _Concentric
+AL _Align
+
+;===========================Gumball============================
+GB _Gumball _Toggle
+GB1 -GumballAlignment _CPlane
+GB2 -GumballAlignment _Object
+;===========================Prongs=================================
+P09 _gvProngonSurface  Diameter=0.25  Drop=0.4  Height=0.45  Fillet=70  Taper=10 
+P10 _gvProngonSurface  Diameter=0.30  Drop=0.4  Height=0.45  Fillet=70  Taper=10 
+P11 _gvProngonSurface  Diameter=0.30  Drop=0.4  Height=0.50  Fillet=70  Taper=10 
+P12 _gvProngonSurface  Diameter=0.30  Drop=0.4  Height=0.50  Fillet=70  Taper=10 
+P13 _gvProngonSurface  Diameter=0.35  Drop=0.4  Height=0.50  Fillet=70  Taper=10 
+P14 _gvProngonSurface  Diameter=0.40  Drop=0.4  Height=0.50  Fillet=70  Taper=10 
+P15 _gvProngonSurface  Diameter=0.40  Drop=0.4  Height=0.50  Fillet=70  Taper=10 
+P16 _gvProngonSurface  Diameter=0.45  Drop=0.4  Height=0.55  Fillet=70  Taper=10 
+P17 _gvProngonSurface  Diameter=0.45  Drop=0.4  Height=0.55  Fillet=70  Taper=10 
+P18 _gvProngonSurface  Diameter=0.50  Drop=0.4  Height=0.55  Fillet=70  Taper=10 
+P19 _gvProngonSurface  Diameter=0.50  Drop=0.4  Height=0.55  Fillet=70  Taper=10 
+P20 _gvProngonSurface  Diameter=0.50  Drop=0.4  Height=0.60  Fillet=70  Taper=10 
+P21 _gvProngonSurface  Diameter=0.50  Drop=0.4  Height=0.60  Fillet=70  Taper=10 
+P22 _gvProngonSurface  Diameter=0.55  Drop=0.4  Height=0.65  Fillet=70  Taper=10 
+;===========================Orient=============================
+O1 _Orient
+O2 _OrientOnSrf _Pause _Pause _Pause _Pause _Copy=Yes _IgnoreTrims=Yes
+O3 _Orient3Pt
+O4 DKOrientToGemCenter
+
+;===========================HotKeySelect=============================
+LP _DKSelectPoint
+LC _DKSelectCurve
+LS _DKSelectSurface
+LG _DKSelectGem
+LA _DKSelectObject
+LPo _DKSelectPolysurface
+
+;===========================HotKey=================================
+SG DKSizeGem
+ST SelectGemCutter
+SW SelectGem SelectGemDistance
+SP SelectProng
+M4 SetCPlane _Mirror45AngleB _Mirror45AngleC _SelLast _Mirror45AngleD _Cancel
+M8 SetCPlane _Mirror90AngleA _Mirror90AngleB _SelLast _Mirror90AngleC _SelLast _Mirror45AngleC _SelLast _Mirror90AngleB _SelLast _Mirror90AngleA _SelLast _Mirror90AngleD _Cancel
+
+KC -Import "C:\Users\ASUS\Documents\Matrix9\Projects\0_KyThuat\0_KyThuat_3.3dm" _DimensionNumbers
+
+;===================================================================
+;===========================Library=================================
+;===================================================================
+;=========================== HotKey ================================
+HotKeyUpdate -Options _Aliases _Import "D:\Script\HotKey\Aliases.txt" _YesAll _Enter _Enter
+;=========================== Select ================================
+SelectGemDistance -SelName "Distance"
+SelectGemCutter -SelName "GemCutter"
+SelectGem -SelName "Gem" _SelBlockInstance
+SelectProng -SelName "Prong On Surface" -SelName "Prong" -SelName "Head Prong"
+;=========================== Mirror =================================
+Mirror45AngleA _NoEcho _Mirror _Copy=Yes 0 @-1,1,0 _Enter
+Mirror45AngleB _NoEcho _Mirror _Copy=Yes 0 @1,1,0 _Enter
+Mirror45AngleC _NoEcho _Mirror _Copy=Yes 0 @1,-1,0 _Enter
+Mirror45AngleD _NoEcho _Mirror _Copy=Yes 0 @-1,-1,0 _Enter
+
+Mirror90AngleA _NoEcho _Mirror _Copy=Yes 0 @0,1,0 _Enter
+Mirror90AngleB _NoEcho _Mirror _Copy=Yes 0 @1,0,0 _Enter
+Mirror90AngleC _NoEcho _Mirror _Copy=Yes 0 @0,-1,0 _Enter
+Mirror90AngleD _NoEcho _Mirror _Copy=Yes 0 @-1,0,0 _Enter
+
+SetCPlane _NoEcho _CPlane _Pause 
+;===================================================================
